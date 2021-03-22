@@ -16,3 +16,5 @@ Aside from being passionate about coding, I'm a guitarist and a relatively bad d
 
 I hate social platforms, I'm not part of them and I hate emojis, which is why you will not see any
 here.
+
+Live long and prosper.
