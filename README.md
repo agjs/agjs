@@ -10,6 +10,8 @@
 
 🎧 Join our [Discord Citadel](https://discord.gg/ysnpXnY7ba)! It's the round-the-clock HQ for our growing community.
 
+🎬 Can't get enough? Check out my [YouTube channel](https://www.youtube.com/@programmer-network) for deep dives, tutorials, and occasional rants on the software multiverse. 🌠
+
 So come, join the Fellowship and let's git push the boundaries of what we can build together! 🤝
 
 
