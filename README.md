@@ -18,4 +18,4 @@ I maintain a [K3s Kubernetes guide](https://k3s.guide/docs/welcome), where I doc
 
 You can find more about my work, projects, and writing on my personal website: [aleksandar.xyz](https://aleksandar.xyz/).
 
-You can also tune into our [Twitch live streams](https://www.twitch.tv/programmer_network), join our [Discord Citadel](https://discord.gg/ysnpXnY7ba), or check out the [Programmer Network YouTube channel](https://www.youtube.com/@programmer-network).
+You can also tune into our [Twitch live streams](https://www.twitch.tv/programmer_network), join our [Discord](https://discord.gg/ysnpXnY7ba), or check out the [Programmer Network YouTube channel](https://www.youtube.com/@programmer-network).
