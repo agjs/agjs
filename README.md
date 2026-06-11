@@ -14,6 +14,8 @@ I'm the creator of [Programmer Network](https://programmer.network), a community
 
 I also built [Boring Stack](https://boringstack.xyz/), a simple and pragmatic stack for building modern web applications.
 
+I maintain a [K3s Kubernetes guide](https://k3s.guide/docs/welcome), where I document my local lab hardware, setup, and practical notes around running Kubernetes at home.
+
 You can find more about my work, projects, and writing on my personal website: [aleksandar.xyz](https://aleksandar.xyz/).
 
 You can also tune into our [Twitch live streams](https://www.twitch.tv/programmer_network), join our [Discord Citadel](https://discord.gg/ysnpXnY7ba), or check out the [Programmer Network YouTube channel](https://www.youtube.com/@programmer-network).
